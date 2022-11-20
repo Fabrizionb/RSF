@@ -11,7 +11,7 @@ General Information
 * * *
 
 *  RSF is part of the final project of the Web development training at CoderHouse
-*  Link to [Demo](https://fabrizionb.github.io/Rsf-Autopartes/)
+*  Link to [Demo](https://fabrizionb.github.io/RSF/)
 
 Technologies Used
 -----------------
